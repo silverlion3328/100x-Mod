@@ -36,13 +36,11 @@
             "[+100]% maintenance costs",
             "[+100]% Gold cost of upgrading",
             "[+100]% XP gained from combat",
-            "[-100]% growth [in all cities] <when between [-1] and [-100] Happiness>",
             "Nullifies Growth [in all cities] <when below [-100] Happiness>",
             "[-100]% [Production] [in all cities] <when below [-100] Happiness>",
             "[-100]% Strength <for [All] units> <when below [-100] Happiness>",
             "Cannot build [Settler] units <when below [-100] Happiness>",
             "Rebel units may spawn <when below [-100] Happiness>",
-            "[-100] Sight <for [Embarked] units>",
       ]
       },
 ]
