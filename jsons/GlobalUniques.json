@@ -1,5 +1,7 @@
 [
-      {
+{
+	"name": "Global uniques",
+	"uniques": [
             "[+100]% unhappiness from the number of cities",
             "[100] Happiness from each type of luxury resource",
             "[Gold] cost of purchasing items in cities [+100]%",
@@ -40,6 +42,7 @@
             "Cannot build [Settler] units <when below [-100] Happiness>",
             "Rebel units may spawn <when below [-100] Happiness>",
             "[-100] Sight <for [Embarked] units>",
+      ]
       },
 ]
         
