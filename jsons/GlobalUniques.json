@@ -3,10 +3,6 @@
 	"name": "Global uniques",
 	"uniques": [
 	    "[+50]% growth [in all cities]",
-            "[+50 Gold, +50 Production] [in all cities]",
-            "[+50 Culture, +50 Happiness] [in all cities]",
-            "[+50 Science, +50 Faith] [in all cities]",
-            
       ]
       },
 ]
