@@ -38,7 +38,6 @@
             "[+100]% XP gained from combat",
             "Nullifies Growth [in all cities] <when below [-100] Happiness>",
             "[-100]% [Production] [in all cities] <when below [-100] Happiness>",
-            "[-100]% Strength <for [All] units> <when below [-100] Happiness>",
             "Cannot build [Settler] units <when below [-100] Happiness>",
             "Rebel units may spawn <when below [-100] Happiness>",
       ]
